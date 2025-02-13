@@ -5,3 +5,4 @@ function skillsMember() {
     skills: ['Javascript', 'HTML', 'CSS'],
   };
 }
+
